@@ -53,7 +53,7 @@ Parameters:
 Globals:
   Function:
     Timeout: 60
-    Runtime: python3.8
+    Runtime: python3.13
 
 Transform: AWS::Serverless-2016-10-31
 
